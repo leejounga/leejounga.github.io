@@ -53,3 +53,10 @@
 1. item1
 1. item2
 1. item3
+
+### 이미지
+```html
+<img src="http://i.imgur.com/PLHppZB.jpg" alt="가오나시"
+```
+<!-- 마크다운 문법 -->
+![가오나시] (http://i.imgur.com/PLHppZB.jpg)
