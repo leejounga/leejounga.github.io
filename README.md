@@ -86,6 +86,23 @@ HTML 언어에서는 `<blockquote>`요소를 사용하여 인용절을 구조화
 
 ### 표
 
+```html
+<table>
+	<tr>
+	 <th>Job Type</th><th>Role</th>
+	</tr>
+	<tr>
+		<td>Planner</td><td>Plan</td>
+	</tr>
+	<tr>
+		<td>Designer</td><td>Design</td>
+	</tr>
+	<tr>
+		<td>Developer</td><td>Develop</td>
+	</tr>
+</table>
+```
+
 Job Type | Role
 ---|---
 Planner | Plan
