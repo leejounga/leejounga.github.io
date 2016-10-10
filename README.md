@@ -58,7 +58,11 @@
 ```html
 <img src="http://i.imgur.com/PLHppZB.jpg" alt="가오나시">
 ```
+<!-- 1080/2+[Emmet Math:Ctrl+Shift+Y] -->
 <img src="http://i.imgur.com/PLHppZB.jpg" alt="가오나시" width="540" height="960">
 
-<!-- 마크다운 문법 -->
-![가오나시] (http://i.imgur.com/PLHppZB.jpg)
+<!-- 마크다운 문법: 마크다운 문법은 이미지 사이즈 조절이 안 -->
+<!-- ![가오나시] (http://i.imgur.com/PLHppZB.jpg) -->
+
+<!-- 마크다운 문법: 로컬 파일에 있는 이미지 삽입 -->
+![gaonasy](Assets/gaonasy.jpg)
