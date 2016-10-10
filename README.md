@@ -65,4 +65,4 @@
 <!-- ![가오나시] (http://i.imgur.com/PLHppZB.jpg) -->
 
 <!-- 마크다운 문법: 로컬 파일에 있는 이미지 삽입 -->
-![gaonasy](Assets/gaonasy.jpg_"가오나시"_)
+![gaonasy](Assets/gaonasy.jpg "gaonasy")
