@@ -58,7 +58,7 @@
 ```html
 <img src="http://i.imgur.com/PLHppZB.jpg" alt="가오나시">
 ```
-<img src="http://i.imgur.com/PLHppZB.jpg" alt="가오나시" width="169" height="300">
+<img src="http://i.imgur.com/PLHppZB.jpg" alt="가오나시" width="540" height="960">
 
 <!-- 마크다운 문법 -->
-![가오나시](http://i.imgur.com/PLHppZB.jpg)
+![가오나시] (http://i.imgur.com/PLHppZB.jpg)
