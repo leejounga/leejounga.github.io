@@ -74,3 +74,12 @@
 
 - [디자이너에게 영감을 주는 사이트](http://iropke.com/blog/archives/3994)
 - [뮤지컬 노트르담 드 파리](https://www.youtube.com/watch?v=R6Qg1isd9JM&list=PLQelIPu05G2lm-SuAFPE5EJW8BhTHCRr-)
+
+### 인용구문
+
+인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
+HTML 언어에서는 <blockquote>요소를 사용하여 인용절을 구조화한다.
+
+> "Design is All. All is Design"<br>
+> "Learn By Doing"<br>
+> "그것이 최선입니까? 확실해요?"
