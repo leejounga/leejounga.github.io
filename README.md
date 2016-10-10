@@ -1,5 +1,11 @@
 # leejounga.github.io
 
+#TODO
+
+<!-- 체크박스 [ ]:빈 박스, [x]:체크된 박스 -->
+- [x] Study Markdown
+- [ ] make `index.html`
+
 ## Markdown 사용법
 
 ```html
